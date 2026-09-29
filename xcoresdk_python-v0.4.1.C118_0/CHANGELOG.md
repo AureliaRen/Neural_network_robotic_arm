@@ -1,0 +1,57 @@
+# CHANGELOG
+
+## v0.4.1.C118_0 2024-9-25
+
+* 兼容性
+  * xCore >= v2.2.1， 部分新增特性需要 xCore >= v2.2.2
+  * 路径检验checkPath函数需要 xCore = v2.2.2.C118.20240807
+* 新增
+  * 路径检验
+
+## v0.4.1.b 2024-09-24
+
+* 兼容性
+  * xCore >= v2.2.1， 部分新增特性需要xCore >= v2.2.2
+* 新增
+  * 写寄存器数组
+* 修复
+  * 进入协作模式后机器人状态错误问题
+  * 移除Linux平台对std::filesystem的依赖
+  * moveCF走圆弧的问题
+
+## v0.4.1 2024-08-02
+
+* 兼容性
+  * xCore >= v2.2.1， 部分新增特性需要xCore >= v2.2.2
+* 新增
+  * 支持CR5轴机型
+  * 支持实时接收数据功能
+  * 获取末端位姿的conf值
+  * 查询控制器日志功能
+  * 设置碰撞检测相关参数， 打开、关闭碰撞检测功能
+  * 坐标系标定功能
+  * 软限位获取和设置功能
+  * 使用conf功能
+  * 运动控制模式设置、最大缓存指令个数设置
+  * Jog功能
+  * 设置接收事件的回调函数
+  * 读取和设置运动加速度
+  * 查询和打开奇异规避功能
+  * 设置DI信号值，读取和设置AI值，设置输入仿真模式
+  * 写入和读取寄存器值
+  * 设置 xPanel 对外供电模式
+  * 获取末端按键状态
+  * 力控相关指令
+* 变更
+  * XMateRobot -> xMateRobot，协作6轴
+  * XMateErProRobot -> xMateErProRobot，协作7轴
+  * setToolName(toolName, wobjName) -> setToolset(toolName, wobjName)，通过HMI标定工具设置坐标系
+  * executeCommand() -> moveAppend(command, id)，添加运动指令
+  * flangePos() -> posture(), 获取法兰当前位姿
+  * tcpPos() -> posture(), 获取工具当前位姿
+* 删除
+  * executeDiffCommand()，添加多条不同运动指令
+  * lastErrorCode()，查询运动指令执行错误码
+  * getPointPos()， 查看当前点位运行位置
+  * pathCheck()，路径点的可达性/奇异性/相邻点校验
+  * 焊接相关指令
