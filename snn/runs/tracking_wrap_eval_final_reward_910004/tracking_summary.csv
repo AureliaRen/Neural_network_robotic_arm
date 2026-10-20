@@ -1,0 +1,2 @@
+protocol,cycles,initial_position,final_position,arrivals,no_decisions,boundaries,mean_abs_distance,max_weight_change
+wrap,500,-1,1,108,30,4,1.978,0

@@ -1,0 +1,2 @@
+protocol,n,mean_init_mae,mean_final_mae,mean_delta_mae,n_improved,mean_init_arrivals,mean_final_arrivals,mean_weights_at_bound
+wrap,6,6.5296666666666665,1.6683333333333332,-4.8613333333333335,6,24.333333333333332,147.16666666666666,266.6666666666667

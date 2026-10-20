@@ -1,0 +1,56 @@
+{
+  "endpoints": {
+    "punishment_strict": {
+      "improved_seeds": 6,
+      "mean_gain": 0.24
+    },
+    "reward": {
+      "improved_seeds": 6,
+      "mean_gain": 0.32
+    },
+    "triangle": {
+      "improved_seeds": 5,
+      "mean_reduction": 4.328333333333333
+    },
+    "wrap": {
+      "improved_seeds": 6,
+      "mean_reduction": 4.197
+    }
+  },
+  "failed_jobs": 0,
+  "group_means": {
+    "away_choice_final": 0.5729696760055759,
+    "away_choice_init": 0.5032157966550816,
+    "first_away_final": 0.56,
+    "first_away_init": 0.52,
+    "majority_away_final": 0.5466666666666667,
+    "majority_away_init": 0.33,
+    "punishment_final": 0.5016666666666666,
+    "punishment_init": 0.26166666666666666,
+    "reward_final": 0.9700000000000001,
+    "reward_init": 0.65,
+    "triangle_mae_final": 2.5660000000000003,
+    "triangle_mae_init": 6.894333333333333,
+    "wrap_mae_final": 2.7626666666666666,
+    "wrap_mae_init": 6.959666666666667
+  },
+  "holdout_training_seeds": [
+    730001,
+    730002,
+    730003,
+    730004,
+    730005,
+    730006
+  ],
+  "limits": [
+    "Six holdout seeds estimate repeatability but do not establish a population success rate.",
+    "Noise cadence and several implementation details are absent from the paper.",
+    "Moving-cue readout is an implementation-defined behavioral proxy, not an author-specified success metric."
+  ],
+  "parameter_changes_after_freeze": 0,
+  "physical_jobs": 54,
+  "predeclared_criteria_passed": true,
+  "retries": 0,
+  "seed_replacements": 0,
+  "status": "PASS"
+}
