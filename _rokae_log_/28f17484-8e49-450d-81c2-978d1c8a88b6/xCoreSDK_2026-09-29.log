@@ -479,3 +479,877 @@
 [I|2026-09-29 19:45:46.205 19576] uid: 28f17484-88b6 | moveStart end (0)
 [I|2026-09-29 19:45:46.760 23132] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
 [I|2026-09-29 19:45:47.495 23132] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 19:47:57.241 17908] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 19:47:57.287 17908] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 19:47:57.334 17908] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 19:47:57.335 17908] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 19:47:57.336 17908] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 19:47:57.337 17908] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 19:47:57.382 17908] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 19:47:57.429 17908] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 19:47:57.431 17908] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 19:47:57.432 17908] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 19:47:57.433 17908] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 19:47:59.733 17908] uid: 28f17484-88b6 | Process joints [0.012887835463220457, 0.25824446721805716, -0.5960330288229281, -0.08900947490156243, -0.5429671206265072, 0.07009021872797412], s:1000, z:10, js:-1
+[I|2026-09-29 19:47:59.733 17908] uid: 28f17484-88b6 | Process joints [0.02847753019708138, 0.2937574118128199, -0.49624820844144535, -0.16731126954180298, -0.6114244823153899, 0.12228006996742939], s:1000, z:10, js:-1
+[I|2026-09-29 19:47:59.733 17908] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 19:47:59.780 17908] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 19:48:00.331 15980] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 19:48:01.064 15980] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 19:48:02.692 12668] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 19:48:02.740 12668] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 19:48:02.787 12668] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 19:48:02.787 12668] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 19:48:02.788 12668] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 19:48:02.788 12668] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 19:48:02.834 12668] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 19:48:02.881 12668] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 19:48:02.882 12668] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 19:48:02.882 12668] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 19:48:02.883 12668] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 19:48:04.004 12668] uid: 28f17484-88b6 | Process joints [0.028476515745944776, 0.2921492376348832, -0.4954512268260061, -0.16694912125804703, -0.6113318506526081, 0.12228008008381336], s:1000, z:10, js:-1
+[I|2026-09-29 19:48:04.004 12668] uid: 28f17484-88b6 | Process joints [0.04529253713436725, 0.33458520429912336, -0.38773759309471384, -0.23361992406114207, -0.6822987683873223, 0.15838360293648468], s:1000, z:10, js:-1
+[I|2026-09-29 19:48:04.004 12668] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 19:48:04.050 12668] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 19:48:04.598 22212] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 19:48:05.353 22212] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 19:48:07.006 24472] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 19:48:07.050 24472] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 19:48:07.097 24472] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 19:48:07.097 24472] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 19:48:07.098 24472] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 19:48:07.099 24472] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 19:48:07.145 24472] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 19:48:07.193 24472] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 19:48:07.195 24472] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 19:48:07.196 24472] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 19:48:07.197 24472] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:24:36.056 10096] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:24:36.450 28648] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:26:02.281 10792] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:26:02.327 10792] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:02.375 10792] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:02.375 10792] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:02.375 10792] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:02.376 10792] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:02.422 10792] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:02.469 10792] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:02.470 10792] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:02.471 10792] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:02.472 10792] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:04.425 10792] uid: 28f17484-88b6 | Process joints [0.0452919811848141, 0.3329499307993331, -0.38699938433373654, -0.2332909141201237, -0.6822070361118832, 0.15838303698019623], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:04.425 10792] uid: 28f17484-88b6 | Process joints [0.028433786673362726, 0.2903552305550196, -0.49502691724520503, -0.16658101694332936, -0.611107805071073, 0.12237567503679471], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:04.425 10792] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:26:04.471 10792] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:26:05.028 22932] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:26:05.769 22932] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:26:24.459 20440] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:26:24.507 20440] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:24.554 20440] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:24.554 20440] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:24.555 20440] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:24.555 20440] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:24.601 20440] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:24.649 20440] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:24.650 20440] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:24.650 20440] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:24.651 20440] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:25.777 20440] uid: 28f17484-88b6 | Process joints [0.028433172799203734, 0.28875810146083075, -0.4942354272093577, -0.1662207200682994, -0.6110152274306087, 0.12237523482956188], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:25.777 20440] uid: 28f17484-88b6 | Process joints [0.04532915412803385, 0.331592159100307, -0.38574632495201744, -0.23293369511049022, -0.6823104621811126, 0.1582397864823179], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:25.777 20440] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:26:25.823 20440] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:26:26.378 10172] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:26:27.132 10172] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:26:29.234 11356] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:26:29.282 11356] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:29.329 11356] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:29.329 11356] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:29.330 11356] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:29.330 11356] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:29.377 11356] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:29.425 11356] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:29.425 11356] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:29.426 11356] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:29.426 11356] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:30.216 11356] uid: 28f17484-88b6 | Process joints [0.04532813359661192, 0.3299668574833081, -0.385013598266919, -0.23260637519352972, -0.6822187806522904, 0.15823994533482627], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:30.216 11356] uid: 28f17484-88b6 | Process joints [0.02838955034473591, 0.28697279112297436, -0.49381861146967054, -0.16585493853374278, -0.610790377495054, 0.12247188264723448], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:30.216 11356] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:26:30.263 11356] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:26:30.817 24860] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:26:31.555 24860] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:26:33.546 29204] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:26:33.591 29204] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:33.638 29204] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:33.638 29204] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:33.639 29204] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:33.640 29204] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:33.686 29204] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:33.733 29204] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:33.734 29204] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:33.734 29204] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:33.735 29204] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:34.640 29204] uid: 28f17484-88b6 | Process joints [0.028388831167053916, 0.2853859403095452, -0.49303201129177815, -0.1654966331995178, -0.6106981248396128, 0.12247182768229906], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:34.640 29204] uid: 28f17484-88b6 | Process joints [0.04536591306244722, 0.3286232746722972, -0.38375805217348985, -0.23224965891697383, -0.6823256238683729, 0.15809622920591648], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:34.640 29204] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:26:34.688 29204] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:26:35.241 4228] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:26:35.986 4228] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:26:37.915 18792] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:26:37.963 18792] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:38.009 18792] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:38.009 18792] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:38.010 18792] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:38.010 18792] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:38.055 18792] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:26:38.102 18792] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:26:38.103 18792] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:26:38.104 18792] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:26:38.105 18792] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:26:38.812 18792] uid: 28f17484-88b6 | Process joints [0.04536488521965501, 0.3270089510395844, -0.3830310079934095, -0.23192471248091306, -0.682233880775671, 0.158096134635962], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:38.812 18792] uid: 28f17484-88b6 | Process joints [0.02834538530745163, 0.2836104278359165, -0.4926226873896603, -0.16513389563713546, -0.6104722003953615, 0.1225680547387314], s:1000, z:10, js:-1
+[I|2026-09-29 20:26:38.812 18792] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:26:38.858 18792] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:26:39.411 22556] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:26:40.152 22556] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:46:35.752 27892] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:46:35.798 27892] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:35.846 27892] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:35.847 27892] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:35.848 27892] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:35.849 27892] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:35.893 27892] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:35.942 27892] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:35.943 27892] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:35.944 27892] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:35.945 27892] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:39.719 27892] uid: 28f17484-88b6 | Process joints [0.028344289797822338, 0.28203335339227176, -0.4918411788103492, -0.1647773400206983, -0.6103800635106247, 0.12256818085053812], s:1000, z:10, js:-1
+[I|2026-09-29 20:46:39.719 27892] uid: 28f17484-88b6 | Process joints [0.012506432964348266, 0.24575975050628082, -0.5932174758802615, -0.08601863913541571, -0.5412261607268692, 0.07077701741510854], s:1000, z:10, js:-1
+[I|2026-09-29 20:46:39.719 27892] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:46:39.765 27892] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:46:40.315 19468] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:46:41.046 19468] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:46:45.425 6408] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:46:45.469 6408] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:45.517 6408] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:45.518 6408] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:45.519 6408] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:45.519 6408] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:45.564 6408] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:45.612 6408] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:45.613 6408] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:45.614 6408] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:45.614 6408] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:48.617 6408] uid: 28f17484-88b6 | Process joints [0.012505538688739583, 0.2442145351213562, -0.592386229184228, -0.08563208063873486, -0.5411337739004858, 0.07077715449954916], s:1000, z:10, js:-1
+[I|2026-09-29 20:46:48.617 6408] uid: 28f17484-88b6 | Process joints [-0.0008041607524063151, 0.21015356464974422, -0.6964230833103368, 0.007308695248070084, -0.46972892844795844, 0.0002837234841564804], s:1000, z:10, js:-1
+[I|2026-09-29 20:46:48.617 6408] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:46:48.664 6408] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:46:49.169 14328] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:46:49.940 14328] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:46:53.252 28196] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:46:53.297 28196] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:53.345 28196] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:53.346 28196] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:53.347 28196] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:53.348 28196] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:53.392 28196] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:53.439 28196] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:53.440 28196] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:53.441 28196] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:53.442 28196] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:55.435 28196] uid: 28f17484-88b6 | Process joints [-0.0008049404394764498, 0.20863496927400663, -0.6955414437424935, 0.007722874213509882, -0.4696361277996266, 0.00028330707676262935], s:1000, z:10, js:-1
+[I|2026-09-29 20:46:55.435 28196] uid: 28f17484-88b6 | Process joints [-0.00938825591461187, 0.17420327165862348, -0.8099001157376668, 0.12118992183291305, -0.39201108722927974, -0.09621086325117001], s:1000, z:10, js:-1
+[I|2026-09-29 20:46:55.435 28196] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:46:55.481 28196] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:46:55.973 15824] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:46:56.763 15824] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:46:59.078 6436] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:46:59.123 6436] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:59.171 6436] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:59.172 6436] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:59.172 6436] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:59.173 6436] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:46:59.218 6436] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:46:59.265 6436] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:46:59.266 6436] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:46:59.267 6436] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:46:59.267 6436] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:47:01.098 6436] uid: 28f17484-88b6 | Process joints [-0.009388641527938094, 0.17270865985272865, -0.8089625450917691, 0.12162789856446383, -0.39191890865738543, -0.0962105559626931], s:1000, z:10, js:-1
+[I|2026-09-29 20:47:01.098 6436] uid: 28f17484-88b6 | Process joints [-0.0008059742628154612, 0.20725951225172445, -0.6943498419829652, 0.008116015882127682, -0.46966551856161454, 0.00023421410454948924], s:1000, z:10, js:-1
+[I|2026-09-29 20:47:01.098 6436] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:47:01.146 6436] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:47:01.640 5248] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:47:02.429 5248] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:47:51.741 26780] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:47:51.787 26780] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:47:51.835 26780] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:47:51.836 26780] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:47:51.836 26780] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:47:51.837 26780] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:47:51.881 26780] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:47:51.929 26780] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:47:51.929 26780] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:47:51.930 26780] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:47:51.931 26780] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:47:57.289 8484] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:47:57.335 8484] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:47:57.382 8484] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:47:57.383 8484] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:47:57.384 8484] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:47:57.384 8484] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:47:57.429 8484] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:47:57.476 8484] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:47:57.477 8484] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:47:57.477 8484] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:47:57.478 8484] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:48:11.875 7732] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:48:11.920 7732] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:48:11.967 7732] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:48:11.968 7732] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:48:11.969 7732] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:48:11.970 7732] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:48:12.013 7732] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:48:12.061 7732] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:48:12.061 7732] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:48:12.062 7732] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:48:12.062 7732] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:48:13.203 7732] uid: 28f17484-88b6 | Process joints [-0.0008065383361304973, 0.2057511652876143, -0.6934733659979924, 0.008528214127149844, -0.46957285109212626, 0.0002341717546506674], s:1000, z:10, js:-1
+[I|2026-09-29 20:48:13.203 7732] uid: 28f17484-88b6 | Process joints [-0.00938600932977598, 0.17109730096838632, -0.8083193417828267, 0.12211439309318173, -0.3917104555126669, -0.0961974218908187], s:1000, z:10, js:-1
+[I|2026-09-29 20:48:13.203 7732] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:48:13.249 7732] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:48:13.745 25392] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:48:14.535 25392] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:48:20.069 2080] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:48:20.115 2080] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:48:20.162 2080] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:48:20.163 2080] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:48:20.164 2080] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:48:20.165 2080] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:48:20.209 2080] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:48:20.257 2080] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:48:20.257 2080] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:48:20.258 2080] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:48:20.259 2080] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:48:22.744 2080] uid: 28f17484-88b6 | Process joints [-0.009386843894202291, 0.16961253534842982, -0.8073866195167148, 0.1225506838821763, -0.39161858398125715, -0.0961973733152972], s:1000, z:10, js:-1
+[I|2026-09-29 20:48:22.744 2080] uid: 28f17484-88b6 | Process joints [0.012586346922155964, 0.23902990983326602, -0.5870798104675744, -0.08413376070425584, -0.5415290155322455, 0.07031983015501893], s:1000, z:10, js:-1
+[I|2026-09-29 20:48:22.744 2080] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:48:22.790 2080] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:48:23.245 3144] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:48:24.163 3144] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:50:48.887 8532] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:50:48.933 8532] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:50:48.981 8532] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:50:48.982 8532] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:50:48.983 8532] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:50:48.983 8532] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:50:49.029 8532] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:50:49.075 8532] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:50:49.075 8532] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:50:49.076 8532] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:50:49.077 8532] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:50:50.898 8532] uid: 28f17484-88b6 | Process joints [0.012586032732687229, 0.23750916154972745, -0.5862626897317543, -0.0837515160665863, -0.5414367351060931, 0.07031959679266266], s:1000, z:10, js:-1
+[I|2026-09-29 20:50:50.898 8532] uid: 28f17484-88b6 | Process joints [0.02567552102895714, 0.078871023930723, -1.146512425976561, 0.5345872985902979, -0.15910047958914636, -0.5035486416109847], s:1000, z:10, js:-1
+[I|2026-09-29 20:50:50.898 8532] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 20:50:50.945 8532] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 20:50:51.439 9916] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 20:50:52.847 9916] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 20:50:55.115 3576] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:50:55.161 3576] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:50:55.208 3576] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:50:55.208 3576] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:50:55.209 3576] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:50:55.209 3576] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:50:55.256 3576] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:50:55.304 3576] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:50:55.305 3576] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:50:55.306 3576] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:50:55.307 3576] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:51:00.588 24472] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:51:00.632 24472] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:51:00.680 24472] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:51:00.681 24472] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:51:00.682 24472] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:51:00.682 24472] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:51:00.727 24472] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:51:00.775 24472] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:51:00.776 24472] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:51:00.777 24472] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:51:00.778 24472] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:51:07.550 22888] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 20:51:07.597 22888] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:51:07.644 22888] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:51:07.644 22888] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:51:07.645 22888] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:51:07.645 22888] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 20:51:07.692 22888] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 20:51:07.739 22888] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 20:51:07.740 22888] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 20:51:07.741 22888] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 20:51:07.742 22888] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:02:51.177 25276] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:02:51.224 25276] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:02:51.272 25276] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:02:51.273 25276] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:02:51.273 25276] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:02:51.274 25276] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:02:51.275 25276] uid: 28f17484-88b6 | Process joints [0, -0.00010486196792187, -0.00027803401780427246, 0, 2.157160482964183e-06, 0], s:1000, z:10, js:-1
+[I|2026-09-29 21:02:51.275 25276] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:02:51.275 25276] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:02:51.318 25276] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:02:51.472 24908] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:06:56.534 21992] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:06:56.579 21992] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:06:56.627 21992] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:06:56.628 21992] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:06:56.628 21992] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:06:56.628 21992] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:06:56.629 21992] uid: 28f17484-88b6 | Process joints [-0.4709568692790296, 0.8311918841316334, -0.5383090121954606, 0.10329107572127587, -0.2651054359763738, -0.1490116127887055], s:1000, z:10, js:-1
+[I|2026-09-29 21:06:56.629 21992] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:06:56.629 21992] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:06:56.674 21992] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:06:57.129 1392] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:06:57.582 1392] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:06:57.681 21992] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:06:57.728 21992] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:06:57.729 21992] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:06:57.730 21992] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:06:57.731 21992] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:06:57.731 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.731 21992] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:06:57.731 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.731 21992] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#4
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#5
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#6
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#7
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#8
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#9
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#10
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#11
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#12
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#13
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#14
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#15
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Append cmd j#16
+[I|2026-09-29 21:06:57.732 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#17
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#18
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#19
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#20
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#21
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#22
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#23
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#24
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#25
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#26
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#27
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#28
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#29
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.733 21992] uid: 28f17484-88b6 | Append cmd j#30
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Append cmd j#31
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Append cmd j#32
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Append cmd j#33
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Append cmd j#34
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Append cmd j#35
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:06:57.734 21992] uid: 28f17484-88b6 | Append cmd j#36
+[I|2026-09-29 21:08:41.632 23584] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:08:41.678 23584] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:08:41.725 23584] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:08:41.726 23584] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:08:41.727 23584] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:08:41.727 23584] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:08:41.728 23584] uid: 28f17484-88b6 | Process joints [-0.47095666954194787, 0.8311922836057968, -0.5383090121954606, 0.10329059635227965, -0.26510591534537, -0.14901209215770173], s:1000, z:10, js:-1
+[I|2026-09-29 21:08:41.728 23584] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:08:41.728 23584] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:08:41.773 23584] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:08:42.229 25632] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:08:42.680 25632] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:08:42.784 23584] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:08:42.833 23584] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:08:42.833 23584] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:08:42.835 23584] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.836 23584] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#4
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#5
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#6
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#7
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#8
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#9
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#10
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#11
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#12
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#13
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#14
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#15
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.837 23584] uid: 28f17484-88b6 | Append cmd j#16
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#17
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#18
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#19
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#20
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#21
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#22
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#23
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#24
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#25
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#26
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#27
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#28
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#29
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#30
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.838 23584] uid: 28f17484-88b6 | Append cmd j#31
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Append cmd j#32
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Append cmd j#33
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Append cmd j#34
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Append cmd j#35
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864592773957243], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:08:42.839 23584] uid: 28f17484-88b6 | Append cmd j#36
+[I|2026-09-29 21:09:17.711 29196] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:09:17.757 29196] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:09:17.803 29196] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:09:17.803 29196] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:09:17.804 29196] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:09:17.805 29196] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:09:17.806 29196] uid: 28f17484-88b6 | Process joints [1.9973708175594285e-07, -0.00010486196792187, -0.00027803401780427246, 4.793689962142629e-07, 2.3968449810713143e-06, -9.587379924285258e-07], s:1000, z:10, js:-1
+[I|2026-09-29 21:09:17.806 29196] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:09:17.806 29196] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:09:17.850 29196] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:09:18.006 10800] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:09:25.514 10800] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:09:25.622 29196] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:09:25.670 29196] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:09:25.671 29196] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:09:25.672 29196] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:09:25.672 29196] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#4
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#5
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#6
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#7
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#8
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#9
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#10
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#11
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#12
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#13
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.673 29196] uid: 28f17484-88b6 | Append cmd j#14
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#15
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#16
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#17
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#18
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#19
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#20
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#21
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#22
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#23
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#24
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#25
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#26
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#27
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.674 29196] uid: 28f17484-88b6 | Append cmd j#28
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#29
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#30
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#31
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#32
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#33
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#34
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#35
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.5864661060979928], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:09:25.675 29196] uid: 28f17484-88b6 | Append cmd j#36
+[I|2026-09-29 21:12:46.548 24180] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:12:46.593 24180] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:12:46.640 24180] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:12:46.641 24180] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:12:46.642 24180] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:12:46.643 24180] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:12:46.644 24180] uid: 28f17484-88b6 | Process joints [-1.9973708175594285e-07, -0.00010486196792187, -0.00027803401780427246, 7.190534943213943e-07, 2.3968449810713143e-06, -2.3968449810713145e-07], s:1000, z:10, js:-1
+[I|2026-09-29 21:12:46.644 24180] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:12:46.644 24180] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:12:46.688 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:12:46.840 26076] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:12:54.352 26076] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:12:54.485 24180] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:12:54.533 24180] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:12:54.533 24180] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:12:54.534 24180] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:12:54.535 24180] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:12:54.535 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:12:54.535 24180] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:12:55.577 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:12:55.577 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:12:55.577 24180] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:12:56.629 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:12:56.629 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:12:56.629 24180] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:12:57.674 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:12:57.675 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:12:57.675 24180] uid: 28f17484-88b6 | Append cmd j#4
+[I|2026-09-29 21:12:58.731 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:12:58.732 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:12:58.732 24180] uid: 28f17484-88b6 | Append cmd j#5
+[I|2026-09-29 21:12:59.784 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:12:59.785 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:12:59.785 24180] uid: 28f17484-88b6 | Append cmd j#6
+[I|2026-09-29 21:13:00.840 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:13:00.840 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:00.840 24180] uid: 28f17484-88b6 | Append cmd j#7
+[I|2026-09-29 21:13:01.898 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:13:01.898 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:01.898 24180] uid: 28f17484-88b6 | Append cmd j#8
+[I|2026-09-29 21:13:02.953 24180] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:13:02.953 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:02.953 24180] uid: 28f17484-88b6 | Append cmd j#9
+[I|2026-09-29 21:13:03.152 26076] uid: 28f17484-88b6 | Notified j#1 [0] finish:true (0)
+[I|2026-09-29 21:13:03.207 26076] uid: 28f17484-88b6 | Notified j#2 [0] finish:true (0)
+[I|2026-09-29 21:13:03.208 26076] uid: 28f17484-88b6 | Notified j#3 [0] finish:true (0)
+[I|2026-09-29 21:13:03.208 26076] uid: 28f17484-88b6 | Notified j#4 [0] finish:true (0)
+[I|2026-09-29 21:13:03.209 26076] uid: 28f17484-88b6 | Notified j#5 [0] finish:true (0)
+[I|2026-09-29 21:13:03.210 26076] uid: 28f17484-88b6 | Notified j#6 [0] finish:true (0)
+[I|2026-09-29 21:13:03.210 26076] uid: 28f17484-88b6 | Notified j#7 [0] finish:true (0)
+[I|2026-09-29 21:13:03.210 26076] uid: 28f17484-88b6 | Notified j#8 [0] finish:true (0)
+[I|2026-09-29 21:13:03.211 26076] uid: 28f17484-88b6 | Notified j#9 [0] finish:true (0)
+[I|2026-09-29 21:13:03.996 24180] uid: 28f17484-88b6 | moveStart end (768)
+[I|2026-09-29 21:13:03.997 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:03.997 24180] uid: 28f17484-88b6 | Append cmd j#10
+[I|2026-09-29 21:13:05.038 26076] uid: 28f17484-88b6 | Notified j#10 [0] finish:true (0)
+[I|2026-09-29 21:13:05.038 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:05.038 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:05.038 24180] uid: 28f17484-88b6 | Append cmd j#11
+[I|2026-09-29 21:13:06.095 26076] uid: 28f17484-88b6 | Notified j#11 [0] finish:true (0)
+[I|2026-09-29 21:13:06.095 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:06.095 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:06.095 24180] uid: 28f17484-88b6 | Append cmd j#12
+[I|2026-09-29 21:13:07.141 26076] uid: 28f17484-88b6 | Notified j#12 [0] finish:true (0)
+[I|2026-09-29 21:13:07.142 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:07.142 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:07.142 24180] uid: 28f17484-88b6 | Append cmd j#13
+[I|2026-09-29 21:13:08.188 26076] uid: 28f17484-88b6 | Notified j#13 [0] finish:true (0)
+[I|2026-09-29 21:13:08.188 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:08.188 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:08.188 24180] uid: 28f17484-88b6 | Append cmd j#14
+[I|2026-09-29 21:13:09.233 26076] uid: 28f17484-88b6 | Notified j#14 [0] finish:true (0)
+[I|2026-09-29 21:13:09.233 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:09.233 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:09.233 24180] uid: 28f17484-88b6 | Append cmd j#15
+[I|2026-09-29 21:13:10.289 26076] uid: 28f17484-88b6 | Notified j#15 [0] finish:true (0)
+[I|2026-09-29 21:13:10.289 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:10.289 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:10.289 24180] uid: 28f17484-88b6 | Append cmd j#16
+[I|2026-09-29 21:13:11.333 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:11.333 26076] uid: 28f17484-88b6 | Notified j#16 [0] finish:true (0)
+[I|2026-09-29 21:13:11.333 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:11.333 24180] uid: 28f17484-88b6 | Append cmd j#17
+[I|2026-09-29 21:13:12.385 26076] uid: 28f17484-88b6 | Notified j#17 [0] finish:true (0)
+[I|2026-09-29 21:13:12.385 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:12.385 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:12.385 24180] uid: 28f17484-88b6 | Append cmd j#18
+[I|2026-09-29 21:13:13.439 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:13.439 26076] uid: 28f17484-88b6 | Notified j#18 [0] finish:true (0)
+[I|2026-09-29 21:13:13.440 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:13.440 24180] uid: 28f17484-88b6 | Append cmd j#19
+[I|2026-09-29 21:13:14.491 26076] uid: 28f17484-88b6 | Notified j#19 [0] finish:true (0)
+[I|2026-09-29 21:13:14.491 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:14.491 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:14.491 24180] uid: 28f17484-88b6 | Append cmd j#20
+[I|2026-09-29 21:13:15.548 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:15.548 26076] uid: 28f17484-88b6 | Notified j#20 [0] finish:true (0)
+[I|2026-09-29 21:13:15.549 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:15.549 24180] uid: 28f17484-88b6 | Append cmd j#21
+[I|2026-09-29 21:13:16.604 24180] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:13:16.604 26076] uid: 28f17484-88b6 | Notified j#21 [0] finish:true (0)
+[I|2026-09-29 21:13:16.604 24180] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0.586463980941169], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:13:16.604 24180] uid: 28f17484-88b6 | Append cmd j#22
+[I|2026-09-29 21:14:55.767 17780] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:14:55.814 17780] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:14:55.861 17780] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:14:55.862 17780] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:14:55.863 17780] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:14:55.864 17780] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:14:55.865 17780] uid: 28f17484-88b6 | Process joints [-0.7092210369977945, -0.6051955679743184, -1.9456405112812936, -0.04297303366562759, -1.759206798013456, -2.3516807517239915], s:1000, z:10, js:-1
+[I|2026-09-29 21:14:55.865 17780] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:14:55.865 17780] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:14:55.909 17780] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:14:56.464 20204] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:15:06.965 2632] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:15:07.011 2632] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:15:07.059 2632] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:15:07.059 2632] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:15:07.059 2632] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:15:07.060 2632] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:15:07.060 2632] uid: 28f17484-88b6 | Process joints [-0.4824499407003483, 0.7619022915221697, -0.6061357304181436, 0.09626017065380127, -0.33717472960521855, -0.25525991584762714], s:1000, z:10, js:-1
+[I|2026-09-29 21:15:07.060 2632] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:15:07.060 2632] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:15:07.107 2632] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:15:07.762 3068] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:15:08.569 3068] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:15:08.679 2632] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:15:08.726 2632] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:15:08.726 2632] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:15:08.727 2632] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:15:08.727 2632] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:15:08.728 2632] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:15:08.728 2632] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:15:09.777 2632] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:15:09.777 2632] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:15:09.777 2632] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:15:10.827 2632] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:15:10.828 2632] uid: 28f17484-88b6 | Process posture trans:[0.2, 0, 0], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:15:10.828 2632] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:15:11.879 2632] uid: 28f17484-88b6 | moveStart end (-20)
+[I|2026-09-29 21:20:24.275 23648] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:20:24.320 23648] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:20:24.367 23648] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:20:24.368 23648] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:20:24.369 23648] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:20:24.370 23648] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:20:24.372 23648] uid: 28f17484-88b6 | Process joints [0, -0.00010466223084011407, -0.00027783428072251655, 4.793689962142629e-07, 1.9174759848570516e-06, -4.793689962142629e-07], s:1000, z:10, js:-1
+[I|2026-09-29 21:20:24.372 23648] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:20:24.372 23648] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:20:24.415 23648] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:24.567 17908] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:20:32.080 17908] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:20:32.192 23648] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:20:32.240 23648] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:20:32.241 23648] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:20:32.242 23648] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:20:32.243 23648] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:20:32.244 23648] uid: 28f17484-88b6 | Process posture trans:[0.6371733269318585, 0, 0.5864668496487213], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:20:32.244 23648] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:20:33.295 23648] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:33.295 17908] uid: 28f17484-88b6 | Notified j#1 [0] finish:false (-50023)
+[I|2026-09-29 21:20:33.296 23648] uid: 28f17484-88b6 | Process posture trans:[0.6371733269318585, 0, 0.5864668496487213], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:20:33.296 23648] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:20:34.340 23648] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:34.340 17908] uid: 28f17484-88b6 | Notified j#2 [0] finish:false (-50023)
+[I|2026-09-29 21:20:34.340 23648] uid: 28f17484-88b6 | Process posture trans:[0.6371733269318585, 0, 0.5864668496487213], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:20:34.340 23648] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:20:35.388 23648] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:35.388 17908] uid: 28f17484-88b6 | Notified j#3 [0] finish:false (-50023)
+[I|2026-09-29 21:20:48.277 12360] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:20:48.327 12360] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:20:48.375 12360] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:20:48.376 12360] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:20:48.376 12360] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:20:48.377 12360] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:20:48.378 12360] uid: 28f17484-88b6 | Process joints [-0.4709568692790296, 0.831192083868715, -0.5383088124583788, 0.10329059635227965, -0.2651056756608719, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:20:48.378 12360] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:20:48.378 12360] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:20:48.423 12360] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:48.873 5104] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:20:49.332 5104] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:20:49.425 12360] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:20:49.473 12360] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:20:49.473 12360] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:20:49.474 12360] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:20:49.475 12360] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:20:49.475 12360] uid: 28f17484-88b6 | Process posture trans:[0.6371762731214944, 0, 0.5864583046083038], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:20:49.475 12360] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:20:50.517 12360] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:50.517 5104] uid: 28f17484-88b6 | Notified j#1 [0] finish:false (-50023)
+[I|2026-09-29 21:20:50.517 12360] uid: 28f17484-88b6 | Process posture trans:[0.6371762731214944, 0, 0.5864583046083038], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:20:50.517 12360] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:20:51.570 12360] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:51.570 5104] uid: 28f17484-88b6 | Notified j#2 [0] finish:false (-50023)
+[I|2026-09-29 21:20:51.570 12360] uid: 28f17484-88b6 | Process posture trans:[0.6371762731214944, 0, 0.5864583046083038], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:20:51.570 12360] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:20:52.624 12360] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:20:52.624 5104] uid: 28f17484-88b6 | Notified j#3 [0] finish:false (-50023)
+[I|2026-09-29 21:21:17.583 12536] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:21:17.628 12536] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:21:17.674 12536] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:21:17.675 12536] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:21:17.675 12536] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:21:17.676 12536] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:21:17.677 12536] uid: 28f17484-88b6 | Process joints [-0.4709568692790296, 0.831192083868715, -0.5383088124583788, 0.10329059635227965, -0.26510591534537, -0.1490116127887055], s:1000, z:10, js:-1
+[I|2026-09-29 21:21:17.677 12536] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:21:17.677 12536] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:21:17.722 12536] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:21:18.177 12484] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:21:18.630 12484] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:21:18.726 12536] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:21:18.773 12536] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:21:18.774 12536] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:21:18.774 12536] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:21:18.775 12536] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:21:18.775 12536] uid: 28f17484-88b6 | Process posture trans:[0.6371759863739886, 0, 0.5864591058151692], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:21:18.775 12536] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:21:19.830 12536] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:21:19.830 12484] uid: 28f17484-88b6 | Notified j#1 [0] finish:false (-50023)
+[I|2026-09-29 21:21:19.831 12536] uid: 28f17484-88b6 | Process posture trans:[0.6371759863739886, 0, 0.5864591058151692], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:21:19.831 12536] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:21:20.887 12536] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:21:20.887 12484] uid: 28f17484-88b6 | Notified j#2 [0] finish:false (-50023)
+[I|2026-09-29 21:21:20.887 12536] uid: 28f17484-88b6 | Process posture trans:[0.6371759863739886, 0, 0.5864591058151692], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:21:20.887 12536] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:21:21.940 12536] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:21:21.940 12484] uid: 28f17484-88b6 | Notified j#3 [0] finish:false (-50023)
+[I|2026-09-29 21:24:26.134 19092] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-09-29 21:24:26.178 19092] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:24:26.226 19092] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:24:26.227 19092] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:24:26.229 19092] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:24:26.230 19092] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:24:26.231 19092] uid: 28f17484-88b6 | Process joints [-0.4709568692790296, 0.8311922836057968, -0.538308612721297, 0.10329035666778154, -0.2651056756608719, -0.14901209215770173], s:1000, z:10, js:-1
+[I|2026-09-29 21:24:26.232 19092] uid: 28f17484-88b6 | Process joints [-0.4709558705936208, 0.8340217591059514, -0.5395489799990014, 0.10277599373484364, -0.2651989129306356, -0.14901233184219984], s:1000, z:10, js:-1
+[I|2026-09-29 21:24:26.232 19092] uid: 28f17484-88b6 | Append cmd absj#0
+[I|2026-09-29 21:24:26.273 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:26.729 25948] uid: 28f17484-88b6 | Notified absj#0 [0] finish:true (0)
+[I|2026-09-29 21:24:27.184 25948] uid: 28f17484-88b6 | Notified absj#0 [1] finish:true (0)
+[I|2026-09-29 21:24:27.393 19092] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 21:24:27.441 19092] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-09-29 21:24:27.442 19092] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 21:24:27.443 19092] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-09-29 21:24:27.443 19092] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
+[I|2026-09-29 21:24:27.444 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:27.444 19092] uid: 28f17484-88b6 | Append cmd j#1
+[I|2026-09-29 21:24:28.500 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:28.500 25948] uid: 28f17484-88b6 | Notified j#1 [0] finish:false (-50023)
+[I|2026-09-29 21:24:28.500 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:28.500 19092] uid: 28f17484-88b6 | Append cmd j#2
+[I|2026-09-29 21:24:29.556 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:29.556 25948] uid: 28f17484-88b6 | Notified j#2 [0] finish:false (-50023)
+[I|2026-09-29 21:24:29.557 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:29.557 19092] uid: 28f17484-88b6 | Append cmd j#3
+[I|2026-09-29 21:24:30.602 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:30.602 25948] uid: 28f17484-88b6 | Notified j#3 [0] finish:false (-50023)
+[I|2026-09-29 21:24:30.603 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:30.603 19092] uid: 28f17484-88b6 | Append cmd j#4
+[I|2026-09-29 21:24:31.654 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:31.654 25948] uid: 28f17484-88b6 | Notified j#4 [0] finish:false (-50023)
+[I|2026-09-29 21:24:31.654 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:31.654 19092] uid: 28f17484-88b6 | Append cmd j#5
+[I|2026-09-29 21:24:32.701 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:32.701 25948] uid: 28f17484-88b6 | Notified j#5 [0] finish:false (-50023)
+[I|2026-09-29 21:24:32.701 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:32.701 19092] uid: 28f17484-88b6 | Append cmd j#6
+[I|2026-09-29 21:24:33.755 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:33.755 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:33.755 19092] uid: 28f17484-88b6 | Append cmd j#7
+[I|2026-09-29 21:24:33.755 25948] uid: 28f17484-88b6 | Notified j#6 [0] finish:false (-50023)
+[I|2026-09-29 21:24:34.801 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:34.801 25948] uid: 28f17484-88b6 | Notified j#7 [0] finish:false (-50023)
+[I|2026-09-29 21:24:34.801 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:34.801 19092] uid: 28f17484-88b6 | Append cmd j#8
+[I|2026-09-29 21:24:35.850 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:35.850 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:35.850 19092] uid: 28f17484-88b6 | Append cmd j#9
+[I|2026-09-29 21:24:35.850 25948] uid: 28f17484-88b6 | Notified j#8 [0] finish:false (-50023)
+[I|2026-09-29 21:24:36.901 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:36.901 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:36.901 19092] uid: 28f17484-88b6 | Append cmd j#10
+[I|2026-09-29 21:24:36.901 25948] uid: 28f17484-88b6 | Notified j#9 [0] finish:false (-50023)
+[I|2026-09-29 21:24:37.944 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:37.944 25948] uid: 28f17484-88b6 | Notified j#10 [0] finish:false (-50023)
+[I|2026-09-29 21:24:37.945 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:37.945 19092] uid: 28f17484-88b6 | Append cmd j#11
+[I|2026-09-29 21:24:38.995 19092] uid: 28f17484-88b6 | moveStart end (0)
+[I|2026-09-29 21:24:38.995 25948] uid: 28f17484-88b6 | Notified j#11 [0] finish:false (-50023)
+[I|2026-09-29 21:24:38.995 19092] uid: 28f17484-88b6 | Process posture trans:[0.637175928906154, 0, 0.586459366707469], rpy:[3.14, -0.06, -1.51] , s:500, z:0, js:-1
+[I|2026-09-29 21:24:38.995 19092] uid: 28f17484-88b6 | Append cmd j#12

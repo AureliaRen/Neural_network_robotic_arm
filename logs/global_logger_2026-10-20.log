@@ -1,0 +1,6 @@
+[I|2026-10-20 19:22:30.925 9756] uid: 28f17484-88b6 | Connect to 192.168.0.160 from 
+[I|2026-10-20 19:22:30.970 9756] uid: 28f17484-88b6 | setOperationMode end, switch to manual (0)
+[I|2026-10-20 19:22:32.891 9756] uid: 28f17484-88b6 | setPowerState end, switch motor true (0)
+[I|2026-10-20 19:22:32.894 9756] uid: 28f17484-88b6 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-10-20 19:22:32.896 9756] uid: 28f17484-88b6 | setDefaultZone end, zone: 50 (0)
+[I|2026-10-20 19:22:32.899 9756] uid: 28f17484-88b6 | setDefaultSpeed end, speed: 200 (0)
