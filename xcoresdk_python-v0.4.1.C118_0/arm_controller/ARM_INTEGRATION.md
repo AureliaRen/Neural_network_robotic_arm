@@ -1,88 +1,55 @@
-# 机械臂动作接口（左 / 右 / 停）
+# 机械臂动作客户端（左 / 右 / 停）
 
-`action_server.py` 是给 SNN/上层控制用的 **关节 1** 动作服务，语义与
-`simple.py` / `bionic_arm_controller.py` 一致：
+本仓库只保留 **客户端**。机械臂同学使用他们自己的 `servicer.py` 作为服务端；
+之前的参考服务 `action_server.py` 已删除，不要在本仓库里再启动同名服务。
 
-| 输入 | 含义 | 关节 1 变化 |
-|---|---|---|
-| `left` / `-1` | 向左 | `+step_rad` |
-| `right` / `1` | 向右 | `-step_rad` |
-| `stop` / `0` | 停 | 不运动 |
+## 固定协议
 
-注意：
-- 原来的 `servicer.py` 是 **末端绕 z 轴 ±8°** 的控制器，并且把 `-1`
-  当成非法值；它和本服务不是同一套动作语义。不要同时占用 9000 端口。
-- 本服务默认 **dry-run**，只打印和回包，不连接机械臂。真机必须显式加
-  `--real`，并且由实验室机械臂负责人现场确认、手边有急停。
-- `stop` 是“本次不动作”，不会中断已经在执行的 `MoveAbsJ`。急停请用
-  示教器/急停按钮；后续可再加独立的异步 stop 通道。
+TCP，UTF-8，一行一条命令，以 `\n` 结束：
 
-## 协议
+| 动作 | 线上值 |
+|---|---:|
+| 左转 left | `-1` |
+| 右转 right | `1` |
+| 不转 stop | `0` |
 
-TCP，UTF-8，一行一条命令，回车换行结束：
+服务端不回包。客户端发送后立即返回，不读取回复。
 
-```
--1        # 或 left
-0         # 或 stop
-1         # 或 right
-```
-
-服务回一行：`OK ...` 或 `ERR ...`。
-
-## 运行
+## 客户端用法
 
 在 `arm_controller/` 目录下：
 
 ```powershell
-# 1) 干跑，不连机械臂
-python action_server.py --dry-run
+# 单次发送
+python action_client.py --action left  --host 172.30.187.22 --port 9000
+python action_client.py --action right --host 172.30.187.22 --port 9000
+python action_client.py --action stop  --host 172.30.187.22 --port 9000
 
-# 2) 另一个终端发命令
-python action_client.py --action left
-python action_client.py --action right
-python action_client.py --action stop
+# 连续输入：保持一个 TCP 连接，逐行发送，不等回包
+python action_client.py --interactive --host 172.30.187.22 --port 9000
+# 然后输入 left / right / stop / q
 ```
 
-真机（仅在负责人同意后）：
+`--host` 默认 `172.30.187.22`（可用环境变量 `ARM_HOST` 覆盖）；`--port`
+默认 `9000`（`ARM_PORT`）。
 
-```powershell
-# 先小步、低速；--home 会先回 init.pos_init 的固定姿态
-python action_server.py --real --home --step-rad 0.02 --speed 20
-```
+## 和 SNN 的映射
 
-参数/环境变量：
-- `--step-rad`，默认 `0.1` rad；首次真机建议 `0.02`。
-- `--speed`，默认 `50`；首次真机建议 `20`。
-- `--port`，默认 `9000`。
-- `ARM_IP`，默认 `192.168.0.160`。
+Fig.4 复现里的动作枚举是：
 
-## SNN 对接
+| SNN 动作 | 数值 | 线上值 |
+|---|---:|---:|
+| TURN_LEFT | 0 | `-1` |
+| TURN_RIGHT | 1 | `1` |
+| NO_DECISION | 2 | `0` |
 
-SNN 侧只需要把三种决策映射成一行：
+## 重要限制
 
-```
-left  -> -1
-right ->  1
-stop  ->  0
-```
-
-Python 可以直接：
-
-```python
-from action_client import send_action
-send_action("left", host="127.0.0.1", port=9000)
-```
-
-C++ 侧可以用 `Winsock`/`asio` 连 `127.0.0.1:9000`，每条命令以 `\n`
-结尾，读回一行 ack 即可。当前 `fig4_closed_loop` 还没有 socket sink；
-下一步是在决策循环里把 `TURN_LEFT/TURN_RIGHT/NO_DECISION` 映射后发送。
-
-## 安全清单
-
-- [ ] 机械臂负责人现场，手边急停。
-- [ ] 工作空间内无人、无杂物。
-- [ ] 先 dry-run 验证 left/right/stop 和 ack。
-- [ ] 真机第一次只发一个小步（`--step-rad 0.02 --speed 20`）。
-- [ ] 确认关节 1 正方向确实是“左”；如果方向反了，改 `--step-rad`
-      符号或在服务里交换 left/right。
-- [ ] 不要用 `servicer.py` 和 `action_server.py` 同时监听 9000。
+- **`sent` 只代表 TCP 写入成功**，不代表机械臂收到、执行或到位；没有 ack。
+- 真机第一次测试必须由机械臂负责人现场确认，手边有急停；先小步、低速。
+- `stop` 只是发送 `0`；对方 `servicer.py` 是否把 `0` 实现成“本次不动作”还是
+  “中断当前运动”，由对方代码决定。急停请用示教器/急停按钮。
+- 连续输入时不要连发多条；机械臂运动是串行的，等上一条动作完成后再发下一条。
+- 对方 `servicer.py` 必须把 `-1` 映射成左转、`1` 映射成右转、`0` 映射成不转；
+  旧的 `end_move` 只处理 `0/1`，需要他们改。
+- 本仓库没有服务端，也没有把 SNN 决策循环直接接到 TCP；当前只提供客户端和映射。
