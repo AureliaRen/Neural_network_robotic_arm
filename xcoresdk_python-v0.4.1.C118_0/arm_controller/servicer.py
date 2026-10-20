@@ -25,7 +25,7 @@ from log import print_log, print_separator
 from operator  import add
 M_PI = math.pi
 step = 8.0
-def handle_client(conn, addr ):
+def handle_client(conn, addr,robot,ec):
     print(f"PC 已连接：{addr}")
     buffer = b""
 
@@ -61,8 +61,8 @@ def main():
             ec = {}
             print_separator("move_op", length=110)
             init.pre_op(robot, ec)
+            init.pos_init(robot,ec)
             example.get_joint_pos(robot, ec)
-            # example.print_move_info(example.get_move_info(robot, ec))
             with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server:
                 server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
                 server.bind((HOST, PORT))
@@ -75,7 +75,7 @@ def main():
                     import threading
                     threading.Thread(
                     target=handle_client,
-                    args=(conn, addr),
+                    args=(conn, addr,robot,ec),
                     daemon=True
                     ).start()
             robot.setNoneEventWatcher(xCoreSDK_python.Event.moveExecution, ec)  # 结束时需要关闭监视器
