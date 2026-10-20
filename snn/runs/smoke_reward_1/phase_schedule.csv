@@ -1,0 +1,4 @@
+cycle,phase,observed_cue,driven_cue,readout_cue,position,action,d,start_step,end_step,steps
+-1,warmup,1,-1,1,-6,2,0,0,100,100
+0,decision,1,1,1,-6,0,0,100,2100,2000
+1,decision,1,1,1,-7,0,0,2100,4100,2000

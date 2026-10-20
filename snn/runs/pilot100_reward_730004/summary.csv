@@ -1,0 +1,2 @@
+seed,mode,cycles,initial_position,final_position,arrivals,learning_blocks,left_exposure,right_exposure,left_toward,right_toward,no_decisions,boundaries,max_weight_change
+730004,reward,100,7,-2,6,6,66,28,36,13,6,1,0.1194862425327301

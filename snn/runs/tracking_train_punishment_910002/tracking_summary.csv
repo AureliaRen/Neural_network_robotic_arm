@@ -1,0 +1,2 @@
+protocol,mode,seed,cycles,initial_position,final_position,arrivals,learning_blocks,no_decisions,boundaries,mean_abs_distance,max_weight_change
+triangle,punishment,910002,500,-1,10,11,11,42,63,9.3320000000000007,0.20159716904163361
