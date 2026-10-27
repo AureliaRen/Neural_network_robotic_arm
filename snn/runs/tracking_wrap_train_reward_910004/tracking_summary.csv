@@ -1,0 +1,2 @@
+protocol,mode,seed,cycles,initial_position,final_position,arrivals,learning_blocks,no_decisions,boundaries,mean_abs_distance,max_weight_change
+wrap,reward,910004,500,-1,8,22,22,28,67,7.7699999999999996,0.62852394580841064

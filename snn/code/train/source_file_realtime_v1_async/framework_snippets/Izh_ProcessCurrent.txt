@@ -1,0 +1,5 @@
+﻿L80: 	if (this->I_EXT) {
+L81: 		total_current += NeuronState[this->index_I_ext];
+L156: void TimeDrivenIzhikevic_I_Exponential_Decay::ProcessCurrent(Interconnections* inter, Neuron* Target, float current) {
+L159: 	this->StateVector->Vector_of_StateVariable[this->N_NeuronStateVariables * Target->index_in_NeuronModel + this->index_I_ext] = total_current;
+L182: 		this->I_EXT = true;

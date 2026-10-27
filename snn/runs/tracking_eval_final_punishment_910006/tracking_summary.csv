@@ -1,0 +1,2 @@
+protocol,cycles,initial_position,final_position,arrivals,no_decisions,boundaries,mean_abs_distance,max_weight_change
+triangle,500,-1,11,4,41,93,9.4019999999999992,0

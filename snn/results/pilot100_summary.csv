@@ -1,0 +1,2 @@
+seeds,pilot_static_approach_mean,holdout_static_approach_mean,pilot_triangle_mae_mean,holdout_triangle_mae_mean,pilot_weights_at_bound_mean,holdout_weights_at_bound_mean,pilot_fig12_abs_mean,holdout_fig12_abs_mean,pilot_static_improved,pilot_triangle_beat_control
+6,0.8083333333333332,0.9700000000000001,5.178333333333334,2.5660000000000003,0.0,134.16666666666666,0.12842612655666666,1.1890432949718333,6,6
